@@ -1,0 +1,12 @@
+{
+  "name": "node_redis",
+  "author": "Luis Lucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
